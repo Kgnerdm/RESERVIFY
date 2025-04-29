@@ -1,3 +1,8 @@
+Kağan Erdem 210402040
+Ahmet Hilmi Büber 210401005
+Recep Buğra Sarıkaya 221402005
+
+
 # Reservify
 
 Reservify is a modern, scalable web-based platform designed to streamline the appointment and reservation process for service-oriented businesses such as barbershops, dental clinics, gyms, and wellness centers.  
