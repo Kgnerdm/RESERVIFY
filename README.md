@@ -55,7 +55,7 @@ The platform provides a seamless booking experience for users and an efficient m
 
 - Kağan Erdem
 - Ahmet Hilmi Büber
-- Buğra Sarıkaya
+- Recep Buğra Sarıkaya
 
 ---
 
